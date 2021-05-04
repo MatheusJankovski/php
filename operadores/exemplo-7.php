@@ -12,4 +12,9 @@ echo "<br>";
 
 echo --$a;
 
+// ++$a pré incremento
+// $a++ pós incremento
+
+
+
 ?>
